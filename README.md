@@ -1,11 +1,9 @@
-# Formulário de Contato em PHP
+# PHP Contact Form
 
-**2. Requisitos**
---------------------
+## Requirements
 
-Servidor de aplicação com suporte a envio de emails ou host da internet
+Application server with support for sending emails or internet host.
 
-**2. Configurações**
---------------------
+## Config
 
-Necessário modificar o destinatário do contato no arquivo contato.php
+Need to modify contact recipient in contact.php file.
